@@ -12,7 +12,7 @@
 - Monitor website performance, identifying and resolving technical issues to ensure a seamless user experience.
 
 ## Projects
-[**Data Cleaning In MySQL**]([https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/606ded050507ae8b05b398d8e63a19512602d423/Data%20Cleaning%20in%20MySQL.sql])
+[**Data Cleaning In MySQL**]([https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/Data%20Cleaning%20in%20MySQL.sql])
 - In this project we take raw layoffs data and transform it in **SQL** server to make it usable for analysis
 
 
