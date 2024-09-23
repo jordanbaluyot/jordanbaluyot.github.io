@@ -12,10 +12,8 @@
 - Monitor website performance, identifying and resolving technical issues to ensure a seamless user experience.
 
 ## Projects
-[**Reddit Data Extraction and Analysis**]([https://github.com/jordanbaluyot/portfolio/blob/main/PRAW%20Integration%20Task.py])
+[**Reddit Data Extraction and Analysis**](https://github.com/jordanbaluyot/portfolio/blob/main/PRAW%20Integration%20Task.py)
 - In this project we analyze community interactions and perceptions of cities across 400+ location-based subreddits by extracting subreddit descriptions using Python and the Reddit API, organizing the data into an Excel sheet for further analysis.
 
-![**Data Cleaning In MySQL**]([https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/Data%20Cleaning%20in%20MySQL.sql])
-- In this project we take raw layoffs data and transform it in **SQL** server to make it usable for analysis
-
-
+[**Data Cleaning In MySQL**](https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/Data%20Cleaning%20in%20MySQL.sql)
+- In this project we take raw layoffs data and transform it in **SQL** server to make it usable for analysis.
