@@ -1,4 +1,4 @@
-# Data Analysis Intern
+# Data Analysis Portfolio
 
 #### **Technical Skills: SQL, Python, Excel**
 
