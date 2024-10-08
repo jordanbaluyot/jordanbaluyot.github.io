@@ -13,7 +13,10 @@
 
 ## Projects
 [**Reddit Data Extraction and Analysis**](https://github.com/jordanbaluyot/portfolio/blob/main/PRAW%20Integration%20Task.py)
-- In this project we analyze community interactions and perceptions of cities across 2,000+ location-based subreddits by extracting subreddit descriptions using Python and the Reddit API, organizing the data into an Excel sheet for further analysis.
+- In this project, I analyzed community interactions and perceptions of cities across 2,000+ location-based subreddits by extracting subreddit descriptions using Python and the Reddit API, organizing the data into an Excel sheet for further analysis.
 
 [**Data Cleaning In MySQL**](https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/Data%20Cleaning%20in%20MySQL.sql)
-- In this project we take raw layoffs data and transform it in **SQL** server to make it usable for analysis.
+- In this project I took raw layoffs data and transform it in **SQL** server to make it usable for analysis.
+
+[**Exploratory Data Analysis**](https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/Exploratory%20Data%20Analysis.sql)
+- In this project I conducted an Exploratory Data Analysis (EDA) on a dataset detailing company layoffs. Using SQL, I performed various queries to explore trends, outliers, and insights related to layoffs over time, across countries, companies, and different funding stages.
