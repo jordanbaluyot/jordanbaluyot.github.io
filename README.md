@@ -19,4 +19,4 @@
 - In this project I took raw layoffs data and transform it in **SQL** server to make it usable for analysis.
 
 [**Exploratory Data Analysis**](https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/Exploratory%20Data%20Analysis.sql)
-- In this project I conducted an Exploratory Data Analysis (EDA) on a dataset detailing company layoffs. Using SQL, I performed various queries to explore trends, outliers, and insights related to layoffs over time, across countries, companies, and different funding stages.
+- In this project I conducted an **Exploratory Data Analysis (EDA)** using SQL on a dataset detailing company layoffs. I performed various queries to explore trends, outliers, and insights related to layoffs over time, across countries, companies, and different funding stages.
