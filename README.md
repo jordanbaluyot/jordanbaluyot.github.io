@@ -12,7 +12,7 @@
 - Monitor website performance, identifying and resolving technical issues to ensure a seamless user experience.
 
 ## Projects
-[**Flu Shots Data Analysis 2022**]
+[**Flu Shots Data Analysis 2022**](https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/SQL%20Flu%20Shots%20Data%20Organization.sql)
 - In this project, I analyzed 2022 flu vaccination data to determine total vaccination rates and patterns among active patients. Using SQL, I segmented flu shot recipients by age, race, and county, calculated a running total over the year, and identified individual vaccination statuses to inform public health strategies
 
 [**Reddit Data Extraction and Analysis**](https://github.com/jordanbaluyot/portfolio/blob/main/PRAW%20Integration%20Task.py)
