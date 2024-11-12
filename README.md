@@ -13,11 +13,11 @@
 
 ## Projects
 [**Data Wizardry Health Care System Flu Shots Dashboard 2022**](https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/Data%20Wizardry%20Health%20Care%20System%20Flu%20Shots%202022%20Dashboard.twbx)
-[**SQL Code**](https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/SQL%20Flu%20Shots%20Data%20Organization.sql)
-- In this project, I analyzed 2022 flu vaccination data to determine total vaccination rates and patterns among active patients. Using SQL, I segmented flu shot recipients by age, race, and county, calculated a running total over the year, and identified individual vaccination statuses to inform public health strategies
-- In the Dashboard, I visualize 2022 flu vaccination data to reveal compliance rates and trends across different demographics, supporting targeted public health interventions.
+- In this Dashboard, I visualize 2022 flu vaccination data to reveal compliance rates and trends across different demographics, supporting targeted public health interventions.
 - Key Insights: The dashboard highlights vaccination patterns by age, race, and county, and displays overall compliance rates and total shots given, identifying gaps in coverage.
 - Visual Components: Includes segmented bar charts by age and race, a map showing county compliance, an individual patient list, and a running total of flu shots over time, using a dark background with teal accents for clarity.
+[**SQL Code**](https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/SQL%20Flu%20Shots%20Data%20Organization.sql)
+- In this project, I analyzed 2022 flu vaccination data to determine total vaccination rates and patterns among active patients. Using SQL, I segmented flu shot recipients by age, race, and county, calculated a running total over the year, and identified individual vaccination statuses to inform public health strategies
 
 [**Reddit Data Extraction and Analysis**](https://github.com/jordanbaluyot/portfolio/blob/main/PRAW%20Integration%20Task.py)
 - In this project, I analyzed community interactions and perceptions of cities across 2,000+ location-based subreddits by extracting subreddit descriptions using Python and the Reddit API, organizing the data into an Excel sheet for further analysis.
