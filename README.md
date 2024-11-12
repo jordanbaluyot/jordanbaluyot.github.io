@@ -13,7 +13,7 @@
 
 ## Projects
 [**Data Wizardry Health Care System Flu Shots Dashboard 2022**](https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/Data%20Wizardry%20Health%20Care%20System%20Flu%20Shots%202022%20Dashboard.twbx)
-[**Flu Shots Data Analysis 2022**](https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/SQL%20Flu%20Shots%20Data%20Organization.sql)
+[**SQL Code**](https://github.com/jordanbaluyot/jordanbaluyot.github.io/blob/main/SQL%20Flu%20Shots%20Data%20Organization.sql)
 - In this project, I analyzed 2022 flu vaccination data to determine total vaccination rates and patterns among active patients. Using SQL, I segmented flu shot recipients by age, race, and county, calculated a running total over the year, and identified individual vaccination statuses to inform public health strategies
 - In the Dashboard, I visualize 2022 flu vaccination data to reveal compliance rates and trends across different demographics, supporting targeted public health interventions.
 - Key Insights: The dashboard highlights vaccination patterns by age, race, and county, and displays overall compliance rates and total shots given, identifying gaps in coverage.
